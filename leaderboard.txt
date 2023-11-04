@@ -1,0 +1,6 @@
+
+Abbas=8
+Abbas=7
+Malik=5
+Vraj=4
+Maarij=3
